@@ -1,4 +1,4 @@
-# Emotion Detection in Text using Natural Language Processing
+# Emotion Detection in Text using NLP
 
 <img src="./images/index.png"/>
 
